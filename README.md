@@ -1,7 +1,7 @@
 <h1 align="center">Hello there everyone👋, I'm Nivasan</h1>
 <h3 align="center">A Passionate Hardcore Coder from India</h3>
 
-- 🔭 I’m currently working on [DSA]
+- 🔭 I’m currently working on **Python with Arduino and IOT**
 
 - 🌱 I’m currently learning **Full stack web development**
 
