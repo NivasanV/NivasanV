@@ -1,13 +1,13 @@
 <h1 align="center">Hello there everyone👋, I'm Nivasan</h1>
 <h3 align="center">A Passionate Hardcore Coder from India</h3>
 
-- 🔭 I’m currently working on **Python with Arduino and IOT**
+- 🔭 I’m currently working on **Angular**
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NivasanV?tab=repositories](https://github.com/NivasanV?tab=repositories)
+- 👨‍💻 All of my projects are available at [Click Here](https://www.hackerrank.com/nivasanvijay2002)
 
-- 📝 I regularly write articles on [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
+- 📝 I regularly practise challenges in Hackerrank [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
 
 - 💬 Ask me about **DSA Full Stack Development and AI**
 
