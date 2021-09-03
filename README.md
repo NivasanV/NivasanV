@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Full stack web development**
 
-- 👨‍💻 All of my projects are available at [Click Here](https://www.hackerrank.com/nivasanvijay2002)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/NivasanV?tab=repositories)
 
-- 📝 I regularly practise challenges in Hackerrank [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
+- 📝 I regularly practise challenges in Hackerrank [Click Here](https://www.hackerrank.com/nivasanvijay2002)
 
 - 💬 Ask me about **DSA Full Stack Development and AI**
 
