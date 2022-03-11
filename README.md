@@ -1,9 +1,9 @@
 <h1 align="center">Hello there everyone👋, I'm Nivasan</h1>
 <h3 align="center">A Passionate Hardcore Coder from India</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Full stack web development**
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/NivasanV?tab=repositories)
 
