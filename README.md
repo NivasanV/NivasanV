@@ -9,7 +9,7 @@
 
 - 📝 I regularly practise challenges in Hackerrank [Click Here](https://www.hackerrank.com/nivasanvijay2002)
 
-- 💬 Ask me about **DSA Full Stack Development and AI**
+- 💬 Ask me about **Data Structure**
 
 - 📫 How to reach me **nivasanvijay2002@gmail.com**
 
