@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/NivasanV?tab=repositories)
 
-- 📝 I regularly practise challenges in Hackerrank <a href="https://www.hackerrank.com/nivasanvijay2002" target="blank">Click here</a>
+- 📝 I regularly practise challenges in Hackerrank <a href="https://www.hackerrank.com/nivasanvijay2002" target="_blank">Click here</a>
 
 - 💬 Ask me about **Data Structure**
 
